@@ -4,13 +4,13 @@
 
 ## Description
 
-Welcome to the Comprehensive Python Course by Geek University! 🚀 Master one of the most in-demand programming languages in today's market, suitable for roles in Data Science, Artificial Intelligence, and web development.
+Hello! I'm Jonatha Costa, and I'm excited to share my study journey with the Comprehensive Python Course. 🚀 This course is an amazing opportunity to master one of the most in-demand programming languages in the market, with applications in Data Science, Artificial Intelligence, and web development.
 
-Dive into 64 hours of engaging content covering fundamental concepts to advanced topics, using the latest version of Python (Python 3.8.5). Clear explanations and step-by-step programming ensure a solid and practical understanding.
+Throughout 64 hours of intense study, I delved into fundamental concepts to advanced topics, using the latest version of Python. The clear explanations and step-by-step approach made my learning both solid and practical.
 
 ## 📚 Topics Covered
 
-- Variables and Data Types
+- [Module 1: Variables and Data Types](#P_00)
 - Logical and Conditional Structures
 - Decision and Loop Structures
 - Collections (Lists, Tuples, Sets, etc.)
