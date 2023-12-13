@@ -11,7 +11,7 @@ Throughout 64 hours of intense study, I delved into fundamental concepts to adva
 ## 📚 Topics Covered
 
 - [Module 1: Variables and Data Types](./P_00/)
-- Logical and Conditional Structures
+- [Logical and Conditional Structures](./P_01/)
 - Decision and Loop Structures
 - Collections (Lists, Tuples, Sets, etc.)
 - Functions
