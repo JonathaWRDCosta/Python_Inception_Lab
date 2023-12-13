@@ -1,11 +1,12 @@
-##########################################################
+#############################################################################################
 # File: ex08.py
 # Created: 2023-12-12
 # Modified: 2023-12-12
 # Author: Jonatha Costa <jonathawiliamsrdcosta@gmail.com>
 #
-# Description: XXX
-##########################################################
+# Description: This script prompts the user to enter two valid grades (between 0.0 and 10.0),
+# calculates the average, and displays the result.
+#############################################################################################
 
 nota1 = float(input("Digite uma nota válida (0.0 - 10.0): "))
 nota2 = float(input("Digite outra nota válida (0.0 - 10.0): "))

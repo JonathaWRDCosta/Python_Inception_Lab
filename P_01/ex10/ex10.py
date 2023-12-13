@@ -1,11 +1,12 @@
-##########################################################
+###################################################################################
 # File: ex10.py
 # Created: 2023-12-12
 # Modified: 2023-12-12
 # Author: Jonatha Costa <jonathawiliamsrdcosta@gmail.com>
 #
-# Description: XXX
-##########################################################
+# Description: This script prompts the user to enter their height and gender (M/F),
+# calculates the ideal weight based on the gender, and then displays the result.
+###################################################################################
 
 altura = float(input("Qual sua altura? M"))
 sexo = input("Qual o seu sexo? [M/F]: ").upper()

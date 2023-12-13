@@ -1,11 +1,13 @@
-##########################################################
+##################################################################################################
 # File: ex14.py
 # Created: 2023-12-13
 # Modified: 2023-12-13
 # Author: Jonatha Costa <jonathawiliamsrdcosta@gmail.com>
 #
-# Description: XXX
-##########################################################
+# Description: This script prompts the user to enter grades for a lab project, semester evaluation,
+# and final exam. It calculates the weighted average and displays whether the student
+# is approved, needs recovery, or is failed based on specific grade thresholds.
+##################################################################################################
 
 print(30 * "=","NOTAS FINAIS",30 * "=")
 print("*Olá Professores, as notas devem ser lançadas no sistema entre 0.0 e 10.0*")

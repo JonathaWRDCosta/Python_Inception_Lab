@@ -1,11 +1,12 @@
-##########################################################
+##############################################################################################
 # File: ex04.py
 # Created: 2023-12-12
 # Modified: 2023-12-12
 # Author: Jonatha Costa <jonathawiliamsrdcosta@gmail.com>
 #
-# Description: XXX
-##########################################################
+# Description: This script prompts the user to enter an integer, checks if it is non-negative,
+# and then calculates and displays the square and square root of the entered number.
+##############################################################################################
 
 from math import sqrt, pow
 

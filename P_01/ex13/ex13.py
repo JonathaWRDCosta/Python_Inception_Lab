@@ -1,11 +1,12 @@
-##########################################################
+###################################################################################################
 # File: ex13.py
 # Created: 2023-12-13
 # Modified: 2023-12-13
 # Author: Jonatha Costa <jonathawiliamsrdcosta@gmail.com>
 #
-# Description: XXX
-##########################################################
+# Description: This script prompts the user to enter three grades, calculates the weighted average,
+# and then displays whether the student is approved or not based on a threshold of 60.
+###################################################################################################
 
 nota1 = float(input("Digite a primeira nota: "))
 nota2 = float(input("Digite a segunda nota: "))

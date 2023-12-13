@@ -1,11 +1,12 @@
-##########################################################
+########################################################################################
 # File: ex12.py
 # Created: 2023-12-13
 # Modified: 2023-12-13
 # Author: Jonatha Costa <jonathawiliamsrdcosta@gmail.com>
 #
-# Description: XXX
-##########################################################
+# Description: This script prompts the user to enter a number, calculates the logarithm
+# in base 2 and base 10, and then displays the results.
+########################################################################################
 
 from math import log2, log10
 

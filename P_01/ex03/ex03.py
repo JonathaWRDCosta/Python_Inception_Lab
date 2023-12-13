@@ -1,11 +1,12 @@
-##########################################################
+#################################################################################################
 # File: ex03.py
 # Created: 2023-12-12
 # Modified: 2023-12-12
 # Author: Jonatha Costa <jonathawiliamsrdcosta@gmail.com>
 #
-# Description: XXX
-##########################################################
+# Description: This script prompts the user to enter a real number, checks if it is non-negative,
+# and then calculates either the square root or the square accordingly. The result is displayed.
+#################################################################################################
 
 from math import sqrt
 

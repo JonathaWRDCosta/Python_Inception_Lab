@@ -1,11 +1,12 @@
-##########################################################
+################################################################################
 # File: ex15.py
 # Created: 2023-12-13
 # Modified: 2023-12-13
 # Author: Jonatha Costa <jonathawiliamsrdcosta@gmail.com>
 #
-# Description: XXX
-##########################################################
+# Description: This script prompts the user to enter an integer between 1 and 7,
+# and then displays the corresponding day of the week.
+################################################################################
 
 num = int(input("Digite um número inteiro entre 1 e 7: "))
 

@@ -1,11 +1,12 @@
-##########################################################
+########################################################################################
 # File: ex07.py
 # Created: 2023-12-12
 # Modified: 2023-12-12
 # Author: Jonatha Costa <jonathawiliamsrdcosta@gmail.com>
 #
-# Description: XXX
-##########################################################
+# Description: This script prompts the user to enter two numbers, compares them, and
+# then displays whether the first or second number is greater along with the difference.
+########################################################################################
 
 num1 = int(input("Digite um número: "))
 num2 = int(input("Digite outro número: "))
