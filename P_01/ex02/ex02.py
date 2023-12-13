@@ -4,7 +4,7 @@
 # Modified: 2023-12-12
 # Author: Jonatha Costa <jonathawiliamsrdcosta@gmail.com>
 #
-# Description: XXX
+# Description: Square Root Calculation
 ##########################################################
 
 from math import sqrt
