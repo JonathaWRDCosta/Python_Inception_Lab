@@ -12,7 +12,7 @@ Throughout 64 hours of intense study, I delved into fundamental concepts to adva
 
 - [Module 1: Variables and Data Types](./P_00/)
 - [Module 2: Logical and Conditional Structures](./P_01/)
-- Decision and Loop Structures
+- [Module 3: Decision and Loop Structures](./P_02/)
 - Collections (Lists, Tuples, Sets, etc.)
 - Functions
 - Lambda Expressions
