@@ -39,7 +39,7 @@ Welcome to the Python Exercises Section 05 by Geek University! In this section, 
 33. **Product Price Updater**: A program that, given the original price of a product, calculates the new price based on percentage increases.
 34. **Student Grade Classifier**: A program that, given a student's grade and number of absences, classifies them according to a specific table.
 35. **Date Validator**: A program that validates if a date is valid, considering the number of days in each month and leap years.
-36. **Salary Increase Calculator**: A program that calculates the salary increase for employees based on current salary, service time, and a specific table.
+36. **Commission Calculator**: A program that, given the sales value, prints the commission to be paid to the seller based on the following table.
 37. **Parking Fee Calculator**: A program that calculates the amount to be paid for parking based on the time of stay.
 38. **Birthdate Validator**: A program that validates if a provided date of birth is valid, considering day, month, and year.
 39. **Salary Adjustment Program**: A program that calculates the adjusted salary of an employee based on current salary, service time, and a specific table.
